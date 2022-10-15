@@ -1,6 +1,8 @@
 # Serverless API - Lab 18
 
 ## Author: Alan Chelko
+  
+    * Collaboration: in-class demos, Robert Ball, Felix Yu (via youtube: <https://www.youtube.com/watch?v=Ut5CkSz6NR0&t=280s>)
 
 ## Problem Domain
 
